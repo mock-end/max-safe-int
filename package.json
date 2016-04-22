@@ -1,7 +1,7 @@
 {
   "name": "max-safe-int",
   "version": "1.0.0",
-  "description": "Return the max safe integer in JavaScript.",
+  "description": "Return the maximum safe integer in JavaScript.",
   "main": "index.js",
   "scripts": {
     "lint": "jshint index.js",
@@ -11,6 +11,8 @@
   },
   "keywords": [
     "max",
+    "safe",
+    "maximum",
     "int",
     "integer",
     "const"
